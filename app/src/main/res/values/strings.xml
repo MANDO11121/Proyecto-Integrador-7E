@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PI</string>
+    <string name="password">Contraseña</string>
+    <string name="username">Usuario</string>
+    <string name="forgotYourPasswd">Olvidaste tu Constraseña?</string>
+    <string name="signIn">Iniciar Sesion</string>
+</resources>

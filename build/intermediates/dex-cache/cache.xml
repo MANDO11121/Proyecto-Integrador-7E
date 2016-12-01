@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\ARMANDO\.gradle\caches\modules-2\files-2.1\org.springframework.android\spring-android-core\2.0.0.M3\c7e2c60943248bbce5de6cf552592281ed2296b\spring-android-core-2.0.0.M3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c7e2c60943248bbce5de6cf552592281ed2296b">
+        <dex dex="E:\Programas\moonlight-android\PI\PIPI\app\build\intermediates\pre-dexed\debug\spring-android-core-2.0.0.M3_b305949d607176ed7dbade7d8ce1d22b7b531022.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Programas\moonlight-android\PI\PIPI\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="E:\Programas\moonlight-android\PI\PIPI\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_886661c0b7aa08beb3429f271fa3df060aaae78d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Programas\moonlight-android\PI\PIPI\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="E:\Programas\moonlight-android\PI\PIPI\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.0_8f1f71a95ddd24243d772dfae187f7be9d5db758.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Programas\moonlight-android\PI\PIPI\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="E:\Programas\moonlight-android\PI\PIPI\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_34c5da9a4126fc01d493f5489b307974ef030f30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Programas\moonlight-android\PI\PIPI\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a1b62ddf03d16213de48f8e379847ea47ec468d">
+        <dex dex="E:\Programas\moonlight-android\PI\PIPI\app\build\intermediates\pre-dexed\debug\instant-run_84d56e0993f5938583e51f915c904d02b1161e88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Programas\moonlight-android\PI\PIPI\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="E:\Programas\moonlight-android\PI\PIPI\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.0_f71212a9c15354d6e357a711a4fb33f758e3e8cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Programas\moonlight-android\PI\PIPI\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="E:\Programas\moonlight-android\PI\PIPI\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_816f43ad7d0271a50f584f845ca42cbd0fd0ed89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Programas\moonlight-android\PI\PIPI\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Programas\moonlight-android\PI\PIPI\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_12493a25b46db2d671994d1a338197f0b9502698.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Programas\moonlight-android\PI\PIPI\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="E:\Programas\moonlight-android\PI\PIPI\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.0_ddcf891c4baee7966459176b80f51c2ae14f15f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Programas\moonlight-android\PI\PIPI\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="E:\Programas\moonlight-android\PI\PIPI\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_511cd16922505fda92e1c8a4c83bfd632375c9c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Programas\moonlight-android\PI\PIPI\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="E:\Programas\moonlight-android\PI\PIPI\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_29b475f7532d1b8a5f36c1c68f026b8c932e536e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Programas\moonlight-android\PI\PIPI\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="E:\Programas\moonlight-android\PI\PIPI\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_e23b5f7405cf8f085ca6798d3ae5dc8eb0c6dbc8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Programas\moonlight-android\PI\PIPI\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="E:\Programas\moonlight-android\PI\PIPI\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_cb000fc16668054acafb2bc96a5fbe71acd37fe1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Programas\moonlight-android\PI\PIPI\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="31637edba889beb31d891d72c2e8261a1825808a">
+        <dex dex="E:\Programas\moonlight-android\PI\PIPI\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_136608f557e96712940261153eb5103d61c23d96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Programas\moonlight-android\PI\PIPI\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="E:\Programas\moonlight-android\PI\PIPI\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.0_4979dddfb2a552e5b28dd5889d078a1b962b24a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ARMANDO\.gradle\caches\modules-2\files-2.1\org.springframework.android\spring-android-rest-template\2.0.0.M3\204c594c2a47073b30d3cb14ca69ba1066c4e44c\spring-android-rest-template-2.0.0.M3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="204c594c2a47073b30d3cb14ca69ba1066c4e44c">
+        <dex dex="E:\Programas\moonlight-android\PI\PIPI\app\build\intermediates\pre-dexed\debug\spring-android-rest-template-2.0.0.M3_f8eedfce4e3ff99c05c455f9b6f884d56fdcd7e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Programas\moonlight-android\PI\PIPI\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="E:\Programas\moonlight-android\PI\PIPI\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.0_b02d9549ec0dc786832724c8c73cda262b096e40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ARMANDO\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="E:\Programas\moonlight-android\PI\PIPI\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_19bae042f0cad12dd089cbeb63078befcde07a8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Programas\moonlight-android\PI\PIPI\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="E:\Programas\moonlight-android\PI\PIPI\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.0_05456646832b9dad681a7d9a7478fc7f6a52acd9.jar" />
+    </item>
+
+</items>

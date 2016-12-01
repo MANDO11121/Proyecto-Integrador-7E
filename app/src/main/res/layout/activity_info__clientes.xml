@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Alonso Jimenez Hernandez"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:textColor="#000"
+        android:layout_marginTop="40dp"
+        android:id="@+id/txtNombre_InfCl" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tel:  314-000-00-00"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        android:layout_marginTop="8dp"
+        android:id="@+id/txtTel_InfCl" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="e-mail: ajh45632@ucol.mx"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        android:layout_marginTop="8dp"
+        android:id="@+id/txtEmail_InfCl" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Dirección:"
+        android:textSize="18sp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="60dp"
+        android:id="@+id/txtDire_InfCl" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Paseo de los reprobados 42 Las desveladas Colima, Col."
+        android:textSize="18sp"
+        android:textColor="#000"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="10dp"
+        android:id="@+id/txtDirInf_InfCl" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="100dp">
+
+        <Button
+            android:layout_weight="1"
+            android:layout_width="wrap_content"
+            android:layout_height="60dp"
+            android:text="Historial"
+            android:id="@+id/btnHist_InfCl" />
+
+        <Button
+            android:layout_weight="1"
+            android:layout_width="wrap_content"
+            android:layout_height="60dp"
+            android:text="Modificar"
+            android:id="@+id/btnMod_InfCl" />
+
+    </LinearLayout>
+    
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="10dp"
+        android:text="Vender producto"
+        android:id="@+id/btnVender_InfCl" />
+
+</LinearLayout>

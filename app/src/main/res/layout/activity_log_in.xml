@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+>
+
+    <AbsoluteLayout
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="20dp">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnSignIn_log"
+            android:gravity="center"
+            android:layout_margin="20dp"
+            android:text="@string/signIn"
+            android:textSize="20sp"
+            android:background="@color/BlueColor"
+            android:textColor="@color/textColorPrimary" />
+    </AbsoluteLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:id="@+id/imgFoto_log"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <ImageView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="50dp"
+            android:layout_marginBottom="60dp"
+            android:id="@+id/imgFoto_log" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/txtUsername_log"
+            android:inputType="text"
+            android:gravity="center"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginBottom="40dp"
+            android:textColorHighlight="@color/hint"
+            android:hint="@string/username"
+            android:textColorHint="@color/hint"
+            android:textSize="20sp"
+            android:padding="10dp" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/txtPassword_log"
+            android:inputType="textPassword"
+            android:gravity="center"
+            android:layout_margin="20dp"
+            android:hint="@string/password"
+            android:textColorHint="@color/hint"
+            android:textSize="20sp"
+            android:padding="10dp"
+            android:layout_below="@+id/txtUsername_log"/>
+
+    </LinearLayout>
+
+    <Button
+        android:text="Nuevo Usuario"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnNUsr_log"
+        android:layout_marginTop="17dp"
+        android:layout_below="@+id/imgFoto_log"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>
